@@ -9,3 +9,5 @@ masukin ini ke commit
 ini ditambah setelah bikin commit
 
 Edit By Alif
+
+Edit By Dani
