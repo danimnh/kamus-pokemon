@@ -28,3 +28,4 @@ Git pull
 
 Git checkout -b 'nama-branch'
 
+Git push 
